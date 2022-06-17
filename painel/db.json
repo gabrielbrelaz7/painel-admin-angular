@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "name": "Gabriel Brelaz",
+      "email": "gabrielbrelaz@gmail.com",
+      "password": "123456",
+      "id": 1,
+      "token": "fs1Xk58v7bzw3ROnJuGTq492mdEYHA6ilpcfs1Xk58v7bzw3ROnJuGTq492mdEYHA6ilpcfs1Xk58v7bzw3ROnJuGTq492mdEYHA6ilpc"
+    },
+    {
+      "email": "gabrielbrelaz@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
